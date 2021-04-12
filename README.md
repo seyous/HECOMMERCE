@@ -6,14 +6,14 @@
 
 *  Clone repository.
 
-       *  git clone https://github.com/seyous/Daviesgroupproject.git
+       *  git clone https://github.com/seyous/HECOMMERCE.git
 
 
 
     ### IDE:
 
    *  This project was developed in Java, using Selenium and Junit for Testing Framework.
-   *  Download project to your C driver, open the project with eclipse IDE, build the project and it will download the required dependencies
+   *  Download project to your drive, open the project with eclipse IDE, build the project and it will download the required dependencies
 
 
 
